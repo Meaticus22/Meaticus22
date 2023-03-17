@@ -1,3 +1,5 @@
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Meaticus22.Meaticus22)](https://github.com/Meaticus22) [![GitHub followers](https://img.shields.io/github/followers/Meaticus22.svg?style=social&label=Follow)](https://github.com/Meaticus22?tab=followers)
+
 ### Hi, my name is Meaticus 👋
 I'm a student right now, but my ultimate goal is to be a developer.!
 
@@ -13,7 +15,7 @@ My biggest projects so far have been has been [nothing] | As I develop I will cr
 <details>
   <summary>My GitHub Stats 📊</summary>
   
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Meaticus22)](https://github.com/Meaticus22/Meaticus22)  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Meaticus22&show_icons=true)  
   
   ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Meaticus22)  
 </details>
@@ -23,6 +25,7 @@ My biggest projects so far have been has been [nothing] | As I develop I will cr
   This is powered by wakatime and updates automatically as I write more code <br>
   NB: Depending on what I am working on when you visit this, data may be thrown out because I frequently use one language for extended periods of time.
   
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meaticus22&langs_count=8)](https://github.com/Meaticus22/Meaticus22)  
   <img src="https://wakatime.com/share/@Meaticus22/ecfdff99-821c-4e4f-9e9b-d822c6bf22fe.svg" width="60%"/>
 </details>
 
