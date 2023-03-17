@@ -38,6 +38,8 @@ My biggest projects so far have been has been [nothing] | As I develop I will cr
   - Joined Replit (2022) <br>
 </details>
 
+![MyAwesomeWebDevStack](https://awesome-stack.glitch.me/api/v1/cards?name=Meaticus22-sudo&repos=jsgandalf,vue-generator-graph,awesome-stack&theme=dracula)
+
 <h2>📫 How to reach me:</h2>
 
 <a href="mailto:matic106@outlook.com">![matic106@outlook.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
