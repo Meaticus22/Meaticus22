@@ -46,7 +46,7 @@ My biggest projects so far have been has been [nothing] | As I develop I will cr
 
 <h2>📫 How to reach me:</h2>
 
-<a href="mailto:matic106@outlook.com">![matic106@outlook.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="mailto:matic106@outlook.com">![matic106@outlook.com](https://img.shields.io/badge/Outlook-D14836?style=for-the-badge&logo=outlook&logoColor=white)</a>
 
 ---
 
