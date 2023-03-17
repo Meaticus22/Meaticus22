@@ -1,7 +1,7 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Meaticus22.Meaticus22)](https://github.com/Meaticus22) [![GitHub followers](https://img.shields.io/github/followers/Meaticus22.svg?style=social&label=Follow)](https://github.com/Meaticus22?tab=followers)
 
 ### Hi, my name is Meaticus 👋
-I'm a student right now, but my ultimate goal is to be a developer.!
+I'm a student right now, but my ultimate goal is to be a developer!
 
 I mostly taught myself how to use Python, Java, Go, and Swift. But I consider myself a polyglot programmer because I am fluent in many different languages. 
 
