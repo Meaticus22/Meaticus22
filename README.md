@@ -29,6 +29,8 @@ My biggest projects so far have been has been [nothing] | As I develop I will cr
   <img src="https://wakatime.com/share/@Meaticus22/ecfdff99-821c-4e4f-9e9b-d822c6bf22fe.svg" width="60%"/>
 </details>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Meaticus22&theme=jolly)
+
 <details>
   <summary>Events I've participated in 📅</summary>
   - Adevent of Code 2020 <br>
@@ -37,8 +39,6 @@ My biggest projects so far have been has been [nothing] | As I develop I will cr
   - Joined Stack Exchange <br>
   - Joined Replit (2022) <br>
 </details>
-
-![MyAwesomeWebDevStack](https://awesome-stack.glitch.me/api/v1/cards?name=Meaticus22-sudo&repos=jsgandalf,vue-generator-graph,awesome-stack&theme=dracula)
 
 <h2>📫 How to reach me:</h2>
 
