@@ -15,7 +15,7 @@ My biggest projects so far have been has been [nothing] | As I develop I will cr
 <details>
   <summary>My GitHub Stats 📊</summary>
   
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Meaticus22)[  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Meaticus22) 
   
   ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Meaticus22)  
 </details>
