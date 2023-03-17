@@ -41,7 +41,7 @@ My biggest projects so far have been has been [nothing] | As I develop I will cr
 </details>
 
 ---
-## 🎵 Tell Me if your are a Hardstyle Fan! 🎵
+## 🎵 Tell Me If You Are A Hardstyle Fan! 🎵
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ryumixijtw32s4eovgvddf5xje)
 
 <h2>📫 How to reach me:</h2>
