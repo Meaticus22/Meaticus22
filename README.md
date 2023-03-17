@@ -40,6 +40,8 @@ My biggest projects so far have been has been [nothing] | As I develop I will cr
   - Joined Replit (2022) <br>
 </details>
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ryumixijtw32s4eovgvddf5xje&count={count})
+
 <h2>📫 How to reach me:</h2>
 
 <a href="mailto:matic106@outlook.com">![matic106@outlook.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
