@@ -3,7 +3,7 @@
 ### Hi, my name is Meaticus 👋
 I'm a student right now, but my ultimate goal is to be a developer!
 
-I mostly taught myself how to use Python, Java, Go, and Swift. But I consider myself a polyglot programmer because I am fluent in many different languages. 
+I mostly learning on how to use Python, Java, Go, and Swift. But I consider myself a polyglot programmer because I am fluent in many different languages. 
 
 My biggest projects so far have been has been [nothing] | As I develop I will create stuff 
 - 🔭 I'm currently working on how to make my own Brew installement Project
