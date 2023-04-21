@@ -1,12 +1,12 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Meaticus22.Meaticus22)](https://github.com/Meaticus22) [![GitHub followers](https://img.shields.io/github/followers/Meaticus22.svg?style=social&label=Follow)](https://github.com/Meaticus22?tab=followers)
 
 ### Hi, my name is Meaticus 👋
-I'm a student right now, but my ultimate goal is to be a developer!
+I'm a student right now, but my ultimate goal is to an ethical hacker in working with bug bounties and penetrating tests!
 
 I mostly learning on how to use Python, Java, Go, and Swift. But I consider myself a polyglot programmer because I am fluent in many different languages. 
 
 My biggest projects so far have been has been [nothing] | As I develop I will create stuff 
-- 🔭 I'm currently working on how to make my own Brew installement Project
+- 🔭 I'm currently working on how to make my own Brew installement Projects 
 - 🌱 I’m currently learning about HTTP and Proxies (going to make my own web proxy for my school)
 - 😄 Pronouns: he/him 
 
