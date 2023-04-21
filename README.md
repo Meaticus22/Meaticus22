@@ -7,6 +7,7 @@ I mostly learning on how to use Python, Java, Go, and Swift. But I consider myse
 
 My biggest projects so far have been has been [nothing] | As I develop I will create stuff 
 - 🔭 I'm currently working on how to make my own Brew installement Projects 
+- BIG FUTURE PLAN: KALI-MAC (Run Kali Linux on a mac)
 - 🌱 I’m currently learning about HTTP and Proxies (going to make my own web proxy for my school)
 - 😄 Pronouns: he/him 
 
