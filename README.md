@@ -41,10 +41,6 @@ My biggest projects so far has been [nothing] | As I develop I will create stuff
   - Joined Replit (2022) <br>
 </details>
 
----
-## 🎵 Tell Me If You Are A Hardstyle Fan! 🎵
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ryumixijtw32s4eovgvddf5xje)
-
 <h2>📫 How to reach me:</h2>
 
 <a href="mailto:matic106@outlook.com">![matic106@outlook.com](https://img.shields.io/badge/Outlook-D14836?style=for-the-badge&logo=outlook&logoColor=white)</a>
