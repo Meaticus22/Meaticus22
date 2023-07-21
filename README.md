@@ -1,5 +1,16 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Meaticus22.Meaticus22)](https://github.com/Meaticus22) [![GitHub followers](https://img.shields.io/github/followers/Meaticus22.svg?style=social&label=Follow)](https://github.com/Meaticus22?tab=followers)
 
+ ### CyberMeaticus
+  
+Pwen That Shell
+
+[![Twitter](https://img.shields.io/twitter/follow/CyberMeaticus?style=for-the-badge&label=🛡️💻%20%40CyberMeaticus&logo=twitter&logoColor=00AEFF&labelColor=black&color=7fff00)](https://twitter.com/CyberMeaticus) [![Linkedin](https://img.shields.io/badge/🛡️💻%20firefart-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black)](https://www.linkedin.com/in/firefart/) [![Email](https://img.shields.io/badge/🛡️💻%20matic106@outlook.com-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black)](mailto:matic106@outlook.com)
+
+[![FireFart's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meaticus22&count_private=true&show_icons=true&theme=chartreuse-dark)](https://twitter.com/CyberMeaticus)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meaticus22&theme=chartreuse-dark&langs_count=8&layout=compact)](https://twitter.com/CyberMeaticus)
+
+---
 ### Hi, my name is Meaticus 👋
 I'm a student right now, but my ultimate goal is to become an ethical hacker in working with bug bounties and penetrating tests!
 
@@ -11,17 +22,6 @@ My biggest projects so far has been [nothing] | As I develop I will create stuff
 - 🌱 I’m currently learning about HTTP and Proxies (going to make my own web proxy for my school)
 - 😄 Pronouns: he/him 
 
---- 
-
-  ### CyberMeaticus
-  
-that austrian security guy
-
-[![Twitter](https://img.shields.io/twitter/follow/CyberMeaticus?style=for-the-badge&label=💩%20%40CyberMeaticus&logo=twitter&logoColor=00AEFF&labelColor=black&color=7fff00)](https://twitter.com/CyberMeaticus) [![Linkedin](https://img.shields.io/badge/💩%20firefart-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black)](https://www.linkedin.com/in/firefart/) [![Email](https://img.shields.io/badge/💩%20matic106@outlook.com-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black)](mailto:matic106@outlook.com)
-
-[![FireFart's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meaticus22&count_private=true&show_icons=true&theme=chartreuse-dark)](https://twitter.com/CyberMeaticus)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meaticus22&theme=chartreuse-dark&langs_count=8&layout=compact)](https://twitter.com/CyberMeaticus)
 
 </details>
 
