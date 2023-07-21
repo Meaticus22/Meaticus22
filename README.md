@@ -16,30 +16,19 @@ My biggest projects so far has been [nothing] | As I develop I will create stuff
 <details>
   <summary>My GitHub Stats 📊</summary>
   
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Meaticus22) 
-  
-  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Meaticus22)  
+  ### CyberMeaticus
+
+that austrian security guy
+
+[![Twitter](https://img.shields.io/twitter/follow/firefart?style=for-the-badge&label=💩%20%40firefart&logo=twitter&logoColor=00AEFF&labelColor=black&color=7fff00)](https://twitter.com/firefart) [![Linkedin](https://img.shields.io/badge/💩%20firefart-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black)](https://www.linkedin.com/in/firefart/) [![Email](https://img.shields.io/badge/💩%20firefart@gmail.com-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black)](mailto:firefart@gmail.com)
+
+[![FireFart's GitHub stats](https://github-readme-stats.vercel.app/api?username=firefart&count_private=true&show_icons=true&theme=chartreuse-dark)](https://twitter.com/firefart)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firefart&theme=chartreuse-dark&langs_count=8&layout=compact)](https://twitter.com/firefart)
+
 </details>
 
-<details>
-  <summary>Languages I work with 💻</summary>
-  This is powered by wakatime and updates automatically as I write more code <br>
-  NB: Depending on what I am working on when you visit this, data may be thrown out because I frequently use one language for extended periods of time.
-  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meaticus22&langs_count=8)](https://github.com/Meaticus22/Meaticus22)  
-  <img src="https://wakatime.com/share/@Meaticus22/ecfdff99-821c-4e4f-9e9b-d822c6bf22fe.svg" width="60%"/>
-</details>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Meaticus22&theme=jolly)
-
-<details>
-  <summary>Events I've participated in 📅</summary>
-  - Adevent of Code 2020 <br>
-  - Advent of Code 2021 <br>
-  - Advent of code 2022 <br>
-  - Joined Stack Exchange <br>
-  - Joined Replit (2022) <br>
-</details>
 
 <h2>📫 How to reach me:</h2>
 
