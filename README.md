@@ -25,14 +25,6 @@ that austrian security guy
 
 </details>
 
-
-
-<h2>📫 How to reach me:</h2>
-
-<a href="mailto:matic106@outlook.com">![matic106@outlook.com](https://img.shields.io/badge/Outlook-D14836?style=for-the-badge&logo=outlook&logoColor=white)</a>
-
----
-
 <h2>My&nbsp;<strong>favorite</strong><img src="https://i.gifer.com/BNOo.gif" style="float:right; height:150px" /></h2>
 
 <p><img alt="javascript logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:30px; width:42px" /> <img alt="typescript logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" style="height:30px; width:42px" /> <img alt="react logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height:30px; width:42px" /> <img alt="html5 logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:30px; width:42px" /> <img alt="css3 logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height:30px; width:42px" /> <img alt="python logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height:30px; width:42px" /> <img alt="csharp logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="height:30px; width:42px" /></p>
