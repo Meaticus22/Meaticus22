@@ -11,13 +11,10 @@ My biggest projects so far has been [nothing] | As I develop I will create stuff
 - 🌱 I’m currently learning about HTTP and Proxies (going to make my own web proxy for my school)
 - 😄 Pronouns: he/him 
 
----
+--- 
 
-<details>
-  <summary>My GitHub Stats 📊</summary>
-  
   ### CyberMeaticus
-
+  
 that austrian security guy
 
 [![Twitter](https://img.shields.io/twitter/follow/firefart?style=for-the-badge&label=💩%20%40firefart&logo=twitter&logoColor=00AEFF&labelColor=black&color=7fff00)](https://twitter.com/firefart) [![Linkedin](https://img.shields.io/badge/💩%20firefart-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black)](https://www.linkedin.com/in/firefart/) [![Email](https://img.shields.io/badge/💩%20firefart@gmail.com-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black)](mailto:firefart@gmail.com)
