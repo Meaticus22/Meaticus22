@@ -35,4 +35,3 @@ My biggest projects so far has been [nothing] | As I develop I will create stuff
 
 <p>&nbsp;</p>
 
-![Fish Banner](assets/fish.webp)
