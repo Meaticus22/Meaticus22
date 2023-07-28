@@ -11,6 +11,7 @@ Pwen That Shell
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meaticus22&theme=chartreuse-dark&langs_count=8&layout=compact)](https://twitter.com/CyberMeaticus)
 
 ---
+<img src="https://github.com/Meaticus22/Meaticus22/blob/master/result.gif" alt="Preview!">
 ### Hi, my name is Meaticus 👋
 I'm a student right now, but my ultimate goal is to become an ethical hacker in working with bug bounties and penetrating tests!
 
