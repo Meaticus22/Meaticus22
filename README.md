@@ -12,7 +12,7 @@ Pwen That Shell
 
 ---
 ### Hi, my name is Meaticus 👋
-I'm a student right now, but my ultimate goal is to become an ethical hacker in working with bug bounties and penetrating tests!
+I'm a student right now, but my ultimate goal is to become an ethical hacker in working with bug bounties and penetration tests!
 
 I mostly learning on how to use Python, Java, Go, Rust, and Swift. But I consider myself a polyglot programmer because I am fluent in many different languages. 
 
