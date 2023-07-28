@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<style>
+#typing-text {
+	width: 500px;
+	height: 380px;
+	font-size: 15px;
+	border: solid 1px #C9C9C9;
+	color: #6dff12;
+	background-color: #030000;
+	text-align: left;
+	font-family: Courier;
+	font-weight: bold;
+	padding: 5px;
+	resize: none;
+	outline: none;
+	box-sizing: border-box;
+}
+</style>
+</head>
+<body>
+<textarea id="typing-text" readonly></textarea>
+
+<script>
+(() => {
+	let TypingSpeed = 50;
+	let NxtMsgDelay = 1000;
+	let CharacterPos = 0;
+	let MsgBuffer = "";
+	let MsgIndex = 0;
+	let delay;
+	let id = document.getElementById("typing-text");
+	let messages =
+[
+	"Hi, my name is Meaticus 👋\nI'm a student right now, but my ultimate goal is to become an ethical hacker in working with bug bounties and penetration tests!\n\nI mostly learning on how to use Python, Java, Go, Rust, and Swift. But I consider myself a polyglot programmer because I am fluent in many different languages.\n\nMy biggest projects so far has been [nothing] | As I develop I will create stuff\n\n🔭 I'm currently working on how to make my own honeypot for ssh and open ports\nBIG FUTURE PLAN: Creating my on security tools for ethical hacking\n🌱 I’m currently learning about HTTP and Proxies (going to make my own web proxy for my school)\n😄 Pronouns: he/him"
+]
+
+
+	const StartTyping = () => {
+		if (CharacterPos != messages[MsgIndex].length) {
+			MsgBuffer += messages[MsgIndex].charAt(CharacterPos);
+			id.value = MsgBuffer+(CharacterPos != messages[MsgIndex].length-1 ? "_":"");
+			delay = TypingSpeed;
+			id.scrollTop = id.scrollHeight; 
+		} else {
+			delay = NxtMsgDelay;
+			MsgBuffer   = "";
+			CharacterPos = -1;
+			if (MsgIndex!= messages.length-1){
+				MsgIndex++;
+			}else {
+				MsgIndex = 0;
+			}
+		}
+		CharacterPos++;
+		setTimeout(StartTyping, delay);
+	}
+	StartTyping();
+})();
+
+</script>
+
+</body>
+</html>
