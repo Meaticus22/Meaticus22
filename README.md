@@ -14,11 +14,11 @@
 
 </details>
 
-<h2>My&nbsp;<strong>favorite</strong><img src="https://i.gifer.com/BNOo.gif" style="float:right; height:150px" /></h2>
+<h2>My&nbsp;<strong>favorites</strong><img src="https://i.gifer.com/BNOo.gif" style="float:right; height:150px" /></h2>
 
 <p><img alt="javascript logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:30px; width:42px" /> <img alt="typescript logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" style="height:30px; width:42px" /> <img alt="react logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height:30px; width:42px" /> <img alt="html5 logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:30px; width:42px" /> <img alt="css3 logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height:30px; width:42px" /> <img alt="python logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height:30px; width:42px" /> <img alt="csharp logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="height:30px; width:42px" /></p>
 
-<p>Socials</p>
+### Socials 
 
 <p><a href="https://www.twitch.tv/Meaticus" target="_blank"><img alt="twitch logo" src="https://img.shields.io/static/v1?message=Twitch&amp;logo=twitch&amp;label=&amp;color=9146FF&amp;logoColor=white&amp;labelColor=&amp;style=for-the-badge" style="height:35px" /> </a> <a href="https://discord.com/channels/@me/1048703331347988580" target="_blank"> <img alt="discord logo" src="https://img.shields.io/static/v1?message=Discord&amp;logo=discord&amp;label=&amp;color=7289DA&amp;logoColor=white&amp;labelColor=&amp;style=for-the-badge" style="height:35px" /> </a> <a href="https://stackoverflow.com/users/21421465/meaticus" target="_blank"> <img alt="stackoverflow logo" src="https://img.shields.io/static/v1?message=Stackoverflow&amp;logo=stackoverflow&amp;label=&amp;color=FE7A16&amp;logoColor=white&amp;labelColor=&amp;style=for-the-badge" style="height:35px" /> </a> <a href="mailto="> <img alt="microsoft-outlook logo" src="https://img.shields.io/static/v1?message=Outlook&amp;logo=microsoft-outlook&amp;label=&amp;color=0078D4&amp;logoColor=white&amp;labelColor=&amp;style=for-the-badge" style="height:35px" /> </a> <a href="https://twitter.com/CyberMeaticus" target="_blank"> <img alt="twitter logo" src="https://img.shields.io/static/v1?message=Twitter&amp;logo=twitter&amp;label=&amp;color=1DA1F2&amp;logoColor=white&amp;labelColor=&amp;style=for-the-badge" style="height:35px" /> </a></p>
 
