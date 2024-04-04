@@ -12,10 +12,9 @@
 
 ---
 
-<h3 align="left">Passionate for anything</h3>
-
-
-Technologies :
+<details open>
+  <summary><h2>🛠 Passionate for Anything</h2></summary>
+  <p>
 <div align="center">
   <table>
     <tr>
@@ -72,13 +71,19 @@ Technologies :
     </tr>
   </table>
 </div>
+ </p>
+</details>
 
 
 ###
 
 
-## Socials 
+<details open>
+  <summary><h2>Socials</h2></summary>
+  <p> 
 
 <p><a href="https://www.twitch.tv/Meaticus" target="_blank"><img alt="twitch logo" src="https://img.shields.io/static/v1?message=Twitch&amp;logo=twitch&amp;label=&amp;color=9146FF&amp;logoColor=white&amp;labelColor=&amp;style=for-the-badge" style="height:35px" /> </a> <a href="https://discord.com/channels/@me/1048703331347988580" target="_blank"> <img alt="discord logo" src="https://img.shields.io/static/v1?message=Discord&amp;logo=discord&amp;label=&amp;color=7289DA&amp;logoColor=white&amp;labelColor=&amp;style=for-the-badge" style="height:35px" /> </a> <a href="https://stackoverflow.com/users/21421465/meaticus" target="_blank"> <img alt="stackoverflow logo" src="https://img.shields.io/static/v1?message=Stackoverflow&amp;logo=stackoverflow&amp;label=&amp;color=FE7A16&amp;logoColor=white&amp;labelColor=&amp;style=for-the-badge" style="height:35px" /> </a> <a href="mailto="> <img alt="microsoft-outlook logo" src="https://img.shields.io/static/v1?message=Outlook&amp;logo=microsoft-outlook&amp;label=&amp;color=0078D4&amp;logoColor=white&amp;labelColor=&amp;style=for-the-badge" style="height:35px" /> </a> <a href="https://twitter.com/CyberMeaticus" target="_blank"> <img alt="twitter logo" src="https://img.shields.io/static/v1?message=Twitter&amp;logo=twitter&amp;label=&amp;color=1DA1F2&amp;logoColor=white&amp;labelColor=&amp;style=for-the-badge" style="height:35px" /> </a></p>
 
 <p>&nbsp;</p>
+ </p>
+</details>
