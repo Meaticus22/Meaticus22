@@ -12,7 +12,7 @@
 
 ---
 
-<details open>
+<details>
   <summary><h2>🛠 Passionate for Anything</h2></summary>
   <p>
 <div align="center">
@@ -78,7 +78,7 @@
 ###
 
 
-<details open>
+<details>
   <summary><h2>Socials</h2></summary>
   <p> 
 
