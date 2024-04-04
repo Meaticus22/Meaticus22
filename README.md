@@ -1,6 +1,6 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Meaticus22.Meaticus22)](https://github.com/Meaticus22) [![GitHub followers](https://img.shields.io/github/followers/Meaticus22.svg?style=social&label=Follow)](https://github.com/Meaticus22?tab=followers)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Patua+One&size=100&pause=1000&color=0DAD3E&width=4350&height=500&lines=Hi%2C+my+name+is+Meaticus+%F0%9F%91%8B;I'm+a+student+right+now+%F0%9F%90%A7;But+my+ultimate+goal+is+to+work+in+the+cybersecurity+field+%F0%9F%9B%A1%EF%B8%8F%F0%9F%92%BB;I+consider+myself+a+polyglot+programmer;Because+I+am+fluent+in+many+different+languages;%F0%9F%98%84+Pronouns%3A+%22he%2Fhim%22;PWEN+THAT+SHELL!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Patua+One&size=100&pause=1000&color=0DAD3E&width=4350&height=500&lines=Hi%2C+my+name+is+Meaticus+%F0%9F%91%8B;I'm+a+student+right+now+%F0%9F%90%A7;But+my+ultimate+goal+is+to+work+in+the+cybersecurity+field+%F0%9F%9B%A1%EF%B8%8F%F0%9F%92%BB;I+consider+myself+a+polyglot+programmer;Because+I+am+fluent+in+many+different+languages;)](https://git.io/typing-svg)
 
 
 
