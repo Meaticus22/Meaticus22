@@ -6,9 +6,12 @@
 
 [![Twitter](https://img.shields.io/twitter/follow/CyberMeaticus?style=for-the-badge&label=🛡️💻%20%40CyberMeaticus&logo=twitter&logoColor=00AEFF&labelColor=black&color=FF0000)](https://twitter.com/CyberMeaticus) [![Linkedin](https://img.shields.io/badge/🛡️💻%20CyberMeaticus-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black)](https://www.linkedin.com/in/CyberMeaticus/) [![Email](https://img.shields.io/badge/🛡️💻%20matic106@outlook.com-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black)](mailto:matic106@outlook.com)
 
-[![Meaticus GitHub stats](https://github-readme-stats.vercel.app/api?username=Meaticus22&count_private=true&show_icons=true&title_color=FF0000FF&icon_color=FF0000FF&text_color=fff&bg_color=000)](https://twitter.com/CyberMeaticus)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meaticus22&title_color=FF0000FF&icon_color=FF0000FF&text_color=fff&bg_color=000&langs_count=8&layout=compact)](https://twitter.com/CyberMeaticus)
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Meaticus22&show_icons=true&count_private=true&theme=ffffff&hide_border=true&hide=issues,contribs&bg_color=00000000&title_color=FF0000&icon_color=FF0000&text_color=fff">
+  <img height="50%" width="32.4%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Meaticus22&layout=compact&hide_border=true&theme=ffffff&bg_color=00000000&langs_count=6&hide=TypeScript,scss,html,ruby&title_color=FF0000&icon_color=FF0000&text_color=fff">
+</p>
+
 
 ---
 
