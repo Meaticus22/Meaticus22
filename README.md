@@ -4,7 +4,11 @@
 
 
 
-[![Twitter](https://img.shields.io/twitter/follow/CyberMeaticus?style=for-the-badge&label=🛡️💻%20%40CyberMeaticus&logo=twitter&logoColor=00AEFF&labelColor=black&color=FF0000)](https://twitter.com/CyberMeaticus) [![Linkedin](https://img.shields.io/badge/🛡️💻%20CyberMeaticus-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black)](https://www.linkedin.com/in/CyberMeaticus/) [![Email](https://img.shields.io/badge/🛡️💻%20matic106@outlook.com-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black)](mailto:matic106@outlook.com)
+<p align="center">
+ <a href="https://twitter.com/CyberMeaticus"><img src="https://img.shields.io/twitter/follow/CyberMeaticus?style=for-the-badge&label=%F0%9F%9B%A1%EF%B8%8F%F0%9F%92%BB%20%40CyberMeaticus&logo=twitter&logoColor=FF0000&labelColor=black&color=FF0000)" alt="Twitter"></a>
+ <a href="https://www.linkedin.com/in/CyberMeaticus/"><img src="https://img.shields.io/badge/🛡️💻%20CyberMeaticus-blue?style=for-the-badge&logo=Linkedin&logoColor=FF0000&labelColor=black&color=black" alt="LinkedIn"></a>
+ <a href="mailto:matic106@outlook.com"><img src="https://img.shields.io/badge/🛡️💻%20matic106@outlook.com-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=FF0000&labelColor=black&color=black" alt="Email"></a>
+</p>
 
 
 <p align="center">
